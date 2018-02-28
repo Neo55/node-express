@@ -1,0 +1,22 @@
+{
+  "name": "expressInNodeJS",
+  "version": "1.0.0",
+  "description": "express in nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neo55/node-express.git"
+  },
+  "author": "Farkhad Nurmukhametov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neo55/node-express/issues"
+  },
+  "homepage": "https://github.com/Neo55/node-express#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
